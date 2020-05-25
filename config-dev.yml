@@ -1,2 +1,4 @@
 config:
   info: "test the client"
+age: 7
+version: 1
